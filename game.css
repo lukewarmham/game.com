@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');		
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');	
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
 p{
-  font-family: sans-serif;
+  font-family: 'Titillium Web', sans-serif;
 }
