@@ -5,15 +5,24 @@
 
 @font-face {
   font-family: 'Bender Black Italic';
-  src: url('fonts/Jovanny_Lemonad_-_Bender-BlackItalic[1].otf');
+  src: local('Jovanny_Lemonad_-_Bender-BlackItalic[1].otf'),
+		local('Jovanny_Lemonad_ _Bender BlackItalic[1].otf'),
+     url('fonts/Jovanny_Lemonad_-_Bender-BlackItalic[1].otf'),
+		format('opentype');
 }
 @font-face {
   font-family: 'Bender Italic';
-  src: url('fonts/Jovanny_Lemonad_-_Bender-Italic[1].otf');
+  src: local('Jovanny_Lemonad_-_Bender-Italic[1].otf'),
+		local('Jovanny_Lemonad_ _Bender Italic[1].otf'),
+     url('fonts/Jovanny_Lemonad_-_Bender-Italic[1].otf'),
+		format('opentype');
 }
 @font-face {
   font-family: 'Bender Black';
-  src: url('fonts/Jovanny_Lemonad_-_Bender-Black[1].otf');
+  src: local('Jovanny_Lemonad_-_Bender-Black[1].otf'),
+		local('Jovanny_Lemonad_ _Bender Black[1].otf'),
+     url('fonts/Jovanny_Lemonad_-_Bender-Black[1].otf'),
+		format('opentype');
 }
 
 p{
