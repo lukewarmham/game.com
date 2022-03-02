@@ -2,6 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');	
 @import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
+
+@font-face {
+  font-family: 'Bender Italic';
+  src: url('fonts/Jovanny_Lemonad_-_Bender-BlackItalic[1].otf');
+}
+
 p{
-  font-family: 'Titillium Web', sans-serif;
+  font-family: 'Bender Italic', sans-serif;
 }
