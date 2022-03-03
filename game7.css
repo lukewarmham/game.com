@@ -65,4 +65,11 @@ a{
   text-decoration: none;
   color: black;
 }
+.name{
+  font-family: 'Bender', sans-serif;
+  background-color: rgba(0,0,0,0);
+}
+.namediv{
+  background: linear-gradient(to right, black, 55%, rgba(0,0,0,0)); 
+}
   
