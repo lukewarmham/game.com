@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');		
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&display=swap');	
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300&display=swap');
+
+@font-face {
+  font-family: 'Bender Black Italic';
+  src: url('fonts/Jovanny_Lemonad_-_Bender-BlackItalic[1].otf') format('opentype');
+}
+@font-face {
+  font-family: 'Bender Italic';
+  src: url('fonts/Jovanny_Lemonad_-_Bender-Italic[1].otf') format('opentype');
+}
+@font-face {
+  font-family: 'Bender Bold Italic';
+  src: url('fonts/Jovanny_Lemonad_-_Bender-BoldItalic[1].otf') format('opentype');
+}
+@font-face {
+  font-family: 'Bender Light Italic';
+  src: url('fonts/Jovanny_Lemonad_-_Bender-LightItalic[1].otf') format('opentype');
+}
+@font-face {
+  font-family: 'Bender Bold';
+  src: url('fonts/Jovanny_Lemonad_-_Bender-Bold[1].otf') format('opentype');
+}
+@font-face {
+  font-family: 'Bender Black';
+  src: url('fonts/Jovanny_Lemonad_-_Bender-Black[1].otf') format('opentype');
+}
+@font-face {
+  font-family: 'Bender Light';
+  src: url('fonts/Jovanny_Lemonad_-_Bender-Light[1].otf') format('opentype');
+}
+@font-face {
+  font-family: 'Bender';
+  src: url('fonts/Jovanny_Lemonad_-_Bender[1].otf') format('opentype');
+}
+
+p{
+  font-family: 'Bender Black Italic', sans-serif;
+}
+
+h1{
+ font-family: 'Bender Black', sans-serif;
+}
+h2{
+  font-family: 'Bender', sans-serif;
+}
+h3{
+  font-family: 'Bender Light Italic', sans-serif;
+}
+h4{
+  font-family: 'Bender Light', sans-serif;
+}
+h5{
+  font-family: 'Bender Bold', sans-serif;
+}
+h6{
+  font-family: 'Bender Bold Italic', sans-serif;
+}
