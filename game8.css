@@ -68,8 +68,11 @@ a{
 .name{
   font-family: 'Bender', sans-serif;
   background-color: rgba(0,0,0,0);
+  display: inline-block;
+  color: rgba(90,90,90,1);
 }
 .namediv{
+  display: inline-block;
   background: linear-gradient(to right, black, 55%, rgba(0,0,0,0)); 
 }
   
