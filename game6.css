@@ -59,3 +59,10 @@ h5{
 h6{
   font-family: 'Bender Bold Italic', sans-serif;
 }
+
+a{
+  font-family: 'Bender', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+  
