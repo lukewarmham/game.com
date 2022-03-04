@@ -7,7 +7,7 @@ body, html{
   margin: 0;
 }
 
-p, div { display:inline-block;}
+.sameline{ display:inline-block;}
 
 @font-face {
   font-family: 'Bender Black Italic';
