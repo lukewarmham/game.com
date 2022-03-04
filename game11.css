@@ -7,6 +7,8 @@ body, html{
   margin: 0;
 }
 
+p, div { display:inline-block;}
+
 @font-face {
   font-family: 'Bender Black Italic';
   src: url('fonts/Jovanny_Lemonad_-_Bender-BlackItalic[1].otf') format('opentype');
