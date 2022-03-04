@@ -7,7 +7,7 @@ body, html{
   margin: 0;
 }
 
-.sameline{ display:inline-block;}
+.sameline{ display:inline-block; margin: 0 0 0 0;}
 
 @font-face {
   font-family: 'Bender Black Italic';
@@ -80,6 +80,7 @@ a{
   color: rgba(100,100,100,1);
 }
 .namediv{
+  margin: 0;
   display: inline-block;
   height: fit-content;
   width: fit-content;
