@@ -42,6 +42,11 @@ body, html{
   src: url('fonts/Jovanny_Lemonad_-_Bender[1].otf') format('opentype');
 }
 
+.detail{
+  display:inline-block; 
+  margin-top: 10px;
+  vertical-align: top;
+}
 
 p{
   margin: 0 0 0 5px;
