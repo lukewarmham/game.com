@@ -9,5 +9,5 @@ div::-webkit-scrollbar {
 }
 
 .container {display: flex;    overflow-x: visible;}
-.container div {flex:  none; height: 100px; 
-width: 100px;   margin: 5px; background-color: red;}
+.container div {flex:  none; height: 200px;  
+width: 200px;   margin: 5px; background-color: rgba(74,74,74,1); border-radius: 5px;}
